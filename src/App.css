@@ -5,3 +5,8 @@
 body {
     margin: 0;
 }
+
+.ProfileContent {
+    background-color: #1A1B21;
+    width: 317px;
+}

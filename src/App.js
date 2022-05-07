@@ -3,7 +3,7 @@ import { About, Footer, Interests, Main } from './components';
 
 function App() {
   return (
-    <div className="App">
+    <div className='ProfileContent'>
       <Main />
       <About />
       <Interests />

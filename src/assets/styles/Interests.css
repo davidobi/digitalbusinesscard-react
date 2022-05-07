@@ -1,0 +1,13 @@
+main {
+    color: #1A1B21;
+}
+
+main>h2 {
+    color: white;
+    font-size: 16px;
+}
+
+main>p {
+    color: white;
+    font-size: 10.3px;
+}

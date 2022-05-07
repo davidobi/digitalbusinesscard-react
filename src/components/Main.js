@@ -5,7 +5,7 @@ import '../assets/styles/Main.css';
 const Main = () => {
   return (
     <main>
-        <div className='ProfileContent'>
+        <div>
             <img src={ProfileImg} alt="" />
             <h1>David Obi</h1>
             <h3>Front End Developer</h3>
