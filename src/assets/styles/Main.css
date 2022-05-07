@@ -1,0 +1,57 @@
+main {
+    padding:  116px;
+    width: 550px;
+    background-color: #23252C;
+}
+
+main > div > img {
+    width: 317px;
+    height: 317px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-bottom: 0;   
+}
+
+.ProfileContent {
+    background-color: #1A1B21;
+    width: 317px;
+}
+
+main > div > h1 {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+main > div > h3 {
+    color: #F3BF99;
+    text-align: center;
+    font-size: 13px;
+}
+
+main > div > p {
+    color: #F5F5F5;
+    font-size: 10.3px;
+    text-align: center;
+}
+
+.Btn {
+    display: flex;
+    justify-content: space-around;
+}
+
+.EmailBtn {
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.LinkedinBtn {
+    background: #5093E2;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
