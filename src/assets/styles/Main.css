@@ -1,10 +1,9 @@
-main {
-    padding:  52px 116px 0 116px;
-    width: 550px;
-    background-color: #23252C;
+.MainContent {
+    width: 317px;
+    background-color: #1A1B21;
 }
 
-main > div > img {
+.MainContent > img {
     width: 317px;
     height: 317px;
     border-top-left-radius: 10px;
@@ -12,20 +11,20 @@ main > div > img {
     margin-bottom: 0;   
 }
 
-main > div > h1 {
+.MainContent > div > h1 {
     color: white;
     text-align: center;
     font-size: 25px;
     font-weight: 700;
 }
 
-main > div > h3 {
+.MainContent > div > h3 {
     color: #F3BF99;
     text-align: center;
     font-size: 13px;
 }
 
-main > div > p {
+.MainContent > div > p {
     color: #F5F5F5;
     font-size: 10.3px;
     text-align: center;

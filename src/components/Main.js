@@ -4,9 +4,9 @@ import '../assets/styles/Main.css';
 
 const Main = () => {
   return (
-    <main>
-        <div>
-            <img src={ProfileImg} alt="" />
+    <div className='MainContent'>
+        <img src={ProfileImg} alt="" />
+        <div className='MainContent'>
             <h1>David Obi</h1>
             <h3>Front End Developer</h3>
             <p>davidobi.website</p>
@@ -17,7 +17,7 @@ const Main = () => {
             
         </div>
         
-    </main>
+    </div>
   )
 }
 

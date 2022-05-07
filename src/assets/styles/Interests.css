@@ -1,13 +1,14 @@
-main {
-    color: #1A1B21;
+.Interests {
+    background-color: #1A1B21;
+    width: 317px;
 }
 
-main>h2 {
+.Interests>h2 {
     color: white;
     font-size: 16px;
 }
 
-main>p {
+.Interests>p {
     color: white;
     font-size: 10.3px;
 }
