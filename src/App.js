@@ -4,10 +4,13 @@ import { About, Footer, Interests, Main } from './components';
 function App() {
   return (
     <div className='ProfileContent'>
-      <Main />
-      <About />
-      <Interests />
-      <Footer />
+      <div className='DarkColor'>
+        <Main />
+        <About />
+        <Interests />
+        <Footer />
+      </div>
+      
     </div>
   );
 }
